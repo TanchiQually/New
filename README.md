@@ -12,8 +12,7 @@ _попытка перейти на что-то новое_
 
 <details id=0>
 <summary><h2>Welcome</h2></summary>
-
-Интересов слишком много, а жизни все меньше, чтобы их реализовать.
+_Интересов слишком много, а жизни все меньше, чтобы их реализовать._
 <br>Тем не менее, пока основное - работа, на ней и буду тренироваться.
 </details>
 
@@ -25,70 +24,44 @@ _попытка перейти на что-то новое_
 <summary><h2> 1: История</h2></summary>
 
 _Welcome! :wave:_
-
   <br>Компания создана вынужденно.. в далеком 2005 году.
   <br>Так, вынужденно и продолжает существовать )
   <br>Кто вынудил?  Потребности клиентов ))
   <br>
-<br>:tv: [Сайт так и остается старым...](https://http://www.new-quality.ru/)
+<br>:tv: [Сайт так и остается несколько устаревшим...](http://www.new-quality.ru/)
 
-![profile-readme-example](/images/profile-readme-example.png)
+![как-то так...](/images/nq4history.JPG)
 
-### :keyboard: Activity: Your first branch
+_:keyboard: К сожалению, творческий огонь с годами становится все слабее ), но цели  достигаются.
 
-1. Open a new browser tab and navigate to your newly made repository repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
-
-   ![code-tab](/images/code-tab.png)
-   
-3. Click on the **main** branch drop-down.
-
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
-   
-4. In the field, enter a name for your branch: `my-first-branch`.
-5. Click **Create branch: my-first-branch** to create your branch.
-
-   ![create-branch-button](/images/create-branch-button.png)
-   
-   The branch will automatically switch to the one you have just created. 
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
-   
-6. Move on to Step 2!
-
-   **Note**: If you made a public repository, and want to confirm you correctly set up your first branch, wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
+1. Были созданы компания и сайт-визитка, которые до сих пор удовлетворяют потребности клиентов.
+2. Первыми были проекты по консалтингу и подготовке к сертификации СМК. Длительность таких проектов не менее одного года и в одиночку и даже вдвоем тянуть такое очень непросто. К настоящему времени - потребности в подготовке к сертификации у предприятий практически иссякли. Количество компетентного и осведомленного персонала перешло в качество.
+3. Отдельно реализуются проекты по повышению компетентности.. При этом не по поверхностным темам, а по сложным, инженерным методикам. Клиенты так и затягивают в консалтинг.
+4. Отраслевые направления самые разнообразные: автопром, авиакос, медицина, образование, лабораторная деятельность.
+5. А вот команда не развивалась. Разве что изнутри.
 
 </details>
 
 <!-- 
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: >>>
 -->
 
 <details id=2>
-<summary><h2>Step 2: Commit a file</h2></summary>
+<summary><h2>Подробнее о направлениях</h2></summary>
 
-_You created a branch! :tada:_
+Поехали! :tada:_
 
-Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
-
-**What is a commit?**: A _[commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)_ is a set of changes to the files and folders in your project. A commit exists in a branch. For more information, see "[About commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)".
-
-### :keyboard: Activity: Your first commit
-
-The following steps will guide you through the process of committing a change on GitHub. A commit records changes in renaming, changing content within, creating a new file, and any other changes made to your project. For this exercise, committing a change requires first adding a new file to your new branch. 
-
-1. On the **< > Code** tab in the header menu of your repository, make sure you're on your new branch `my-first-branch`.
-
-2. Select the **Add file** drop-down and click **Create new file**.
-
-   ![create new file option](/images/create-new-file.png)
-   
-3. In the **Name your file...** field, enter `PROFILE.md`.
-
-   **Note:** `.md` is a file extension that creates a Markdown file. You can learn more about Markdown by visiting "[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)" in our docs or by taking the "[Communicating using Markdown](https://github.com/skills/communicate-using-markdown)" Skills course.
-   
-4. In the **Edit new file** area, copy the following content to your file:
+Много мудрых русских пословиц про "7 раз отмерь...", "не зная броду не лезь в воду" и прочих.
+Но мы менее мудры, наша поговорка  - "Лиха беда начало".
+А у главного компаньона, так вообще - "Главное - ввязаться в бой...".
+ 
+### :keyboard: А вокруг столько всего...
+1. Кому-то нужна разработка и внедрение  систем менеджмента в соответствии с требованиями и рекомендациями ISO 9001, ISO 9004, IATF 16969, ISO 14001, OHSAS 18000, ISO 15189, ISO 50001 и другими..
+2. Кому-то нужен перевод, адаптация и внедрение требований и процедур иностранных заказчиков и партнеров.
+3. Автопрому нужно внедрение методик APQP/CP, FMEA, PPAP, QFD, SPC, MSA, 8D, 5S.
+ 3.1. А сейчас и всем отраслям машиностроения не помешало бы...
+4. Лабораториям нужно понимание системных требований к компетентности ISO 7025 (или ISO 15189 - медицинским)
+И хорошо, если пока будет остваться тяга к знаниям! Значит, будет
 
    ```
    Welcome to my GitHub profile!
