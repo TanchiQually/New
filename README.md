@@ -12,7 +12,7 @@ _попытка перейти на что-то новое_
 
 <details id=0>
 <summary><h2>Welcome</h2></summary>
-_Интересов слишком много, а жизни все меньше, чтобы их реализовать._
+_Интересов слишком много, а жизни все меньше, чтобы их реализовать_
 <br>Тем не менее, пока основное - работа, на ней и буду тренироваться.
 </details>
 
@@ -32,9 +32,9 @@ _Welcome! :wave:_
 
 ![как-то так...](/images/nq4history.JPG)
 
-_:keyboard: К сожалению, творческий огонь с годами становится все слабее ), но цели  достигаются.
+_:keyboard: К сожалению, творческий огонь с годами становится все слабее ), но цели достигаются_
 
-1. Были созданы компания и сайт-визитка, которые до сих пор удовлетворяют потребности клиентов.
+:white_check_mark: Были созданы компания и сайт-визитка, которые до сих пор удовлетворяют потребности клиентов.
 2. Первыми были проекты по консалтингу и подготовке к сертификации СМК. Длительность таких проектов не менее одного года и в одиночку и даже вдвоем тянуть такое очень непросто. К настоящему времени - потребности в подготовке к сертификации у предприятий практически иссякли. Количество компетентного и осведомленного персонала перешло в качество.
 3. Отдельно реализуются проекты по повышению компетентности.. При этом не по поверхностным темам, а по сложным, инженерным методикам. Клиенты так и затягивают в консалтинг.
 4. Отраслевые направления самые разнообразные: автопром, авиакос, медицина, образование, лабораторная деятельность.
@@ -61,42 +61,29 @@ _:keyboard: К сожалению, творческий огонь с годам
 3. Автопрому нужно внедрение методик APQP/CP, FMEA, PPAP, QFD, SPC, MSA, 8D, 5S.
  3.1. А сейчас и всем отраслям машиностроения не помешало бы...
 4. Лабораториям нужно понимание системных требований к компетентности ISO 7025 (или ISO 15189 - медицинским)
-И хорошо, если пока будет остваться тяга к знаниям! Значит, будет
+ <br>
+ _И хорошо, если пока будет остваться тяга к знаниям! Значит, будут качественные продукты и качественная жизнь_
 
    ```
    Welcome to my GitHub profile!
    ```
    
-   <img alt="profile.md file screenshot" src="/images/my-profile-file.png"/>
-   
-5. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice. First, enter `Add PROFILE.md` in the first text-entry field below **Commit new file** at the bottom of the page. Then, if you want to confirm what your screen should look like, expand the dropdown below.
-
-   <details>
-   <summary> Expand to see the screenshot.</summary>
-   <img alt="screenshot of adding a new file with a commit message" src="/images/commit-full-screen.png" />
-   </details>
-   
-6. In this lesson, we'll ignore the other fields and click **Commit new file**.
-7. Move on to Step 3!
-
-   **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
+5. Дальнейшее развитие отражалось на сайте... Но... в период всяких карантинов работы стало больше, а здоровья и мотивации - меньше.
+6. Собственно GitHub - попытка вдохнуть что-то новое... и самомотивироваться
 
 </details>
-
 <!-- 
-  <<< Author notes: Step 3 >>> 
-  Just a historic note: the previous version of this step forced the learner
-  to write a pull request description,
-  checked that `main` was the receiving branch,
-  and that the file was named correctly.
+  <<< Author notes: 
 -->
 
 <details id=3>
-<summary><h2>Step 3: Open a pull request</h2></summary>
+<summary><h2>Мои ожидания</h2></summary>
 
-_Nice work making that commit! :sparkles:_
+_Стану еще более крутой, разберусь еще в большем количестве непрактичных, не приносящих прибыли вещей :sparkles:_
 
-Now that you have made a change to the project and created a commit, it’s time to share your proposed change through a pull request!
+При всей моей компьютерно ориентированности, мне не хватает терпеливости заниматься каким-то одним узким направлением.
+C'est la vie!
+ Now that you have made a change to the project and created a commit, it’s time to share your proposed change through a pull request!
 
 **What is a pull request?**: Collaboration happens on a _[pull request](https://docs.github.com/en/get-started/quickstart/github-glossary#pull-request)_. The pull request shows the changes in your branch to other people and allows people to accept, reject, or suggest additional changes to your branch. In a side by side comparison, this pull request is going to keep the changes you just made on your branch and propose applying them to the `main` project branch. For more information about pull requests, see "[About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)".
 
@@ -185,14 +172,6 @@ Here's a recap of your accomplishments:
 
 ### What's next?
 
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-
-1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
-
 Check out these resources to learn more or get involved:
 - Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
 - [Take another GitHub Skills course](https://github.com/skills).
@@ -203,11 +182,8 @@ Check out these resources to learn more or get involved:
 
 <!--
   <<< Author notes: Footer >>>
-  
--->
+  -->
 
 ---
-
-
 
 &copy; 2023 TanchiQually &bull; 
